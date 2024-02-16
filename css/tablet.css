@@ -1,0 +1,29 @@
+@media (max-width: 745px) {
+  header {
+    padding-inline: 24px;
+  }
+  .section2 {
+padding: 24px;
+}
+.section2_text{
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  text-align: center;
+}
+.section2_text h3 {
+  width: 100%;
+}
+.section2_text p {
+  width: 100%;
+}
+}
+@media (max-width: 850px) {
+  .section_text {
+    font-size: 36px;
+    line-height: 44px;
+  }
+  .section1 {
+    height: 320px;
+  }
+}
